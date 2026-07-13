@@ -1,0 +1,7 @@
+paper.pdf
+.venv
+.uv
+
+__pycache__/
+py_cache/
+*.py[cod]

@@ -3,6 +3,7 @@ import scipy.sparse as sparse
 from scipy.sparse.linalg import factorized
 from scipy.stats.qmc import Sobol
 
+
 def build_laplacian(faces, num_vertices):
     '''
     laplacian mesh version 
